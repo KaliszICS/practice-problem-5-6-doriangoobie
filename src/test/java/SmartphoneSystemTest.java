@@ -589,4 +589,4 @@ public class SmartphoneSystemTest {
             fail("Smartphone class is missing required method: upgradeComponent(Processor)");
         }
     }
-}
+}   
