@@ -31,4 +31,9 @@ public class Display {
     public String toString() {
         return "Display: " + sizeInches + "inches, " + resolution;
     }
+
+    public boolean getOnOff() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getOnOff'");
+    }
 }
